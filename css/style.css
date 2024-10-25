@@ -4,6 +4,7 @@ body {
     background-size: cover; /* لجعل الصورة تغطي الخلفية بالكامل */
     background-position: center; /* لمحاذاة الخلفية في منتصف الصفحة */
     background-repeat: no-repeat; /* لمنع تكرار الصورة */
+    
   }
   
   .card {
