@@ -1,0 +1,24 @@
+body {
+    background-color: #f4f4f4;
+    background-image:url(../img/to\ do\ list\ background.jpg) ;
+    background-size: cover; /* لجعل الصورة تغطي الخلفية بالكامل */
+    background-position: center; /* لمحاذاة الخلفية في منتصف الصفحة */
+    background-repeat: no-repeat; /* لمنع تكرار الصورة */
+  }
+  
+  .card {
+    max-width: 800px;
+    margin: auto;
+    border-radius: 10px;
+  }
+  
+  ul {
+    margin-top: 20px;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
